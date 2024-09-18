@@ -18,7 +18,7 @@ Est eproyecto fue realizado con el proposito de facilitar el trabajo de realizac
 
 resorces/view/cintillo.png
 
-* **El archivo xlsx que funciona para rellenar y generar las etiquetas, es este archivo (https://docs.google.com/spreadsheets/d/1eF0jBC_9nNhpohtff5n5dTocfKSD9Lt_/edit?usp=drive_link&ouid=111898329109092614011&rtpof=true&sd=true)
+* **El archivo xlsx que funciona para rellenar y generar las etiquetas, es este [archivo](https://docs.google.com/spreadsheets/d/1eF0jBC_9nNhpohtff5n5dTocfKSD9Lt_/edit?usp=drive_link&ouid=111898329109092614011&rtpof=true&sd=true)
 
 
 
